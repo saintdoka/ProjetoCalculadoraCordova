@@ -1,0 +1,12 @@
+.display{
+  margin-top: 3vh;
+  height: 10vh;
+  font-size: 30pt;
+}
+.linha{
+  margin-top: 2vh;
+}
+
+.linha button{
+  font-size: 15pt;
+}
