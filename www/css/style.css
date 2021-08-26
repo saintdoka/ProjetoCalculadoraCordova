@@ -1,12 +1,17 @@
 .display{
   margin-top: 3vh;
   height: 10vh;
-  font-size: 30pt;
+  font-size: 3.5em;
+  text-align: right;
 }
 .linha{
-  margin-top: 2vh;
+  padding-bottom: 3vh;
 }
 
 .linha button{
-  font-size: 15pt;
+  font-size: 2em;
+}
+
+.fundo{
+  background-color: #474B4F;
 }
