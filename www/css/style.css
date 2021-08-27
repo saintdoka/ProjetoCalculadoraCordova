@@ -14,4 +14,18 @@
 
 .fundo{
   background-color: #474B4F;
+  height: 100vh;
 }
+
+.titulo{
+  padding-top: 2vh;
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
+
+.c{
+  padding-top: 8vh;
+}
+
+
